@@ -14,4 +14,5 @@ int main()
 	std::cout << "A+B = " << a+b << '\n';
 	std::cout << "A-B = " << a-b << '\n';
 	std::cout << "A*B = " << a * b << '\n';
+	std::cout << "A/B = " << a / b << '\n';
 }
