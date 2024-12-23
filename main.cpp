@@ -1,3 +1,5 @@
+//Программа является учебной
+//Автор: Артём Варлаков КЭ-217
 #include <iostream>
 
 using namespace std;
